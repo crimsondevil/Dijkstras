@@ -1,4 +1,4 @@
-# Djikstras
+# Dijkstra's
 
 In this project, I have implemented Dijkstra's algorithm to build the routing table of a given source node in the network, which is 0 for this project. Along with this, I have also shown the minimum path tree for each node from node 0.
 
